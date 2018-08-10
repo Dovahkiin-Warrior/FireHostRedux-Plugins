@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Server Info"
+	{
+		"en" 	"Nova.tf Server Menu"
+	}
+
+	"Menu Title"
+	{
+		"en"	"Nova.tf Server Menu"
+	}
+}
